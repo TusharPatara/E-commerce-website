@@ -18,7 +18,7 @@
     <!--Navigation bar start-->
 <nav class="navbar fixed-top navbar-expand-sm navbar-dark" style=" background-color: rgba(0, 0, 0, 0.9);">
             <div class="container">
-                    <a href="index.php" class="navbar-brand"><h3 style="font-family: 'Delius Swash Caps';,  font-Size: bold; color:  yellow;"><strong>UrbanShop</strong></h3></a>
+                    <a href="index.php" class="navbar-brand"><h3 style="font-family: 'Delius Swash Caps';,  font-Size: bold; color:  red;"><strong>Trend Urban</strong></h3></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mynavbar">
                         <span class="navbar-toggler-icon"></span>
                     </button>
